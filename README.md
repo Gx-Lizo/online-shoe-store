@@ -1,3 +1,21 @@
+# The online store
+
+This application is used for a online store.
+
+## Register user
+
+To create a user click the register button on the homepage.
+
+## Login
+
+After creating a user you can click on the home link and login.
+
+## Purchase item
+
+To add items on the cart you must be loggedin.
+
+If you log out the cart will be cleared.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
